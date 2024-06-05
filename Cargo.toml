@@ -12,4 +12,5 @@ strip = true
 #codegen-units = 1
 
 [dependencies]
-
+Rust_SDK = { path = "../Rust_SDK" }
+wee_alloc = "0.4.5"
